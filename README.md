@@ -1,4 +1,4 @@
-# collectionbuilder-gh
+# Pleiades Club
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
